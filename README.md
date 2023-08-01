@@ -1,6 +1,6 @@
 <p align="center">
   
-![RECUP_sabotage-ranvXIIIwhite](https://github.com/aeri/sabotage/assets/23065231/e9b04b60-309c-4b2b-a3f3-41a8721d5c97) 
+![logo](logo.gif) 
 
 </p>
 
